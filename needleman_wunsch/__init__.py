@@ -1,1 +1,2 @@
 from .needleman_wunsch import needleman_wunsch
+from .needleman_wunsch_numpy import needleman_wunsch as needleman_wunsch_numpy
